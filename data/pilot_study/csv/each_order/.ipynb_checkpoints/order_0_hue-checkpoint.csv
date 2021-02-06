@@ -1,0 +1,11 @@
+,takeda,shintani,okamoto,kyomine,horie,hasegawa,kawakata
+radius,0,0,0,0,0,0,0
+theta,0,0,0,0,0,0,0
+valence,0.9630270000000001,0.953349,0.97619,0.97619,0.972706,0.953349,0.992064
+arousal,0.365079,0.370865,0.33212600000000003,0.333914,0.36295,0.324235,0.309717
+sliderThetaSub,39.6,28.8,30.6,34.2,43.2,27.0,30.6
+sliderVertexNum,11,10,9,17,22,10,8
+sliderLengthCoefficient,0.3,0.7,0.4,1.0,1.9,1.5,0.2
+sliderAmplitude,0.35,0.6,0.6,0.25,0.5,0.35,0.35
+sliderThetaBeat,9.0,8.0,7.0,5.5,8.0,5.5,5.0
+sliderHue,0,190,60,0,260,40,210

@@ -1,0 +1,125 @@
+{
+  "0": {
+    "valence": -0.1771849353073927,
+    "arousal": -0.51251321446313,
+    "userValence": -0.078,
+    "userArousal": -0.147
+  },
+  "1": {
+    "valence": 0.30689420413525537,
+    "arousal": 0.9167436326519094,
+    "userValence": -0.839,
+    "userArousal": 0.892
+  },
+  "2": {
+    "valence": 0.10247733612100347,
+    "arousal": 0.5700815221379149,
+    "userValence": -0.262,
+    "userArousal": 0.627
+  },
+  "3": {
+    "valence": 0.13419010648098093,
+    "arousal": 0.007272501105586794,
+    "userValence": 0.171,
+    "userArousal": 0.09
+  },
+  "4": {
+    "valence": 0.11209105625164197,
+    "arousal": -0.8762834208771061,
+    "userValence": 0,
+    "userArousal": -0.925
+  },
+  "5": {
+    "valence": 0.02864918677329637,
+    "arousal": -0.49691469812082273,
+    "userValence": 0.112,
+    "userArousal": -0.597
+  },
+  "6": {
+    "valence": 0.3843728561487081,
+    "arousal": 0.15960919082115338,
+    "userValence": 0.028,
+    "userArousal": 0.444
+  },
+  "7": {
+    "valence": -0.1151734437192505,
+    "arousal": 0.609572558101811,
+    "userValence": -0.344,
+    "userArousal": 0.558
+  },
+  "8": {
+    "valence": 0.4733702573618729,
+    "arousal": 0.18525174395976504,
+    "userValence": 0.237,
+    "userArousal": 0.321
+  },
+  "9": {
+    "valence": 0.35173292441396287,
+    "arousal": 0.9049265203242324,
+    "userValence": -0.677,
+    "userArousal": 0.849
+  },
+  "10": {
+    "valence": 0.17399023845975428,
+    "arousal": 0.867382973233631,
+    "userValence": -0.698,
+    "userArousal": 0.73
+  },
+  "11": {
+    "valence": 0.5851917897288836,
+    "arousal": -0.5511865988581082,
+    "userValence": 0.378,
+    "userArousal": -0.753
+  },
+  "12": {
+    "valence": -0.20589097672260043,
+    "arousal": -0.04212183451798157,
+    "userValence": 0.392,
+    "userArousal": -0.101
+  },
+  "13": {
+    "valence": 0.004690507239131861,
+    "arousal": -0.482312184081554,
+    "userValence": 0.23,
+    "userArousal": -0.422
+  },
+  "14": {
+    "valence": 0.8561023531430069,
+    "arousal": -0.42971879569812327,
+    "userValence": 0.365,
+    "userArousal": -0.169
+  },
+  "15": {
+    "valence": 0.5631604614769863,
+    "arousal": 0.268225870898216,
+    "userValence": 0.252,
+    "userArousal": 0.383
+  },
+  "16": {
+    "valence": 0.7428615887286942,
+    "arousal": 0.6684385998647208,
+    "userValence": -0.659,
+    "userArousal": 0.891
+  },
+  "is_pilot_experiment": false,
+  "is_experiment": true,
+  "order": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16"
+  ]
+}
